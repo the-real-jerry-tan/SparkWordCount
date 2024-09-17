@@ -44,8 +44,8 @@ The project follows a typical Maven structure:
 If you haven't already cloned the repository, use the following command:
 
 ```bash
-git clone https://github.com/yourusername/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/the-real-jerry-tan/SparkWordCount.git
+cd SparkWordCount
 ```
 
 ### Step 2: Install Dependencies
